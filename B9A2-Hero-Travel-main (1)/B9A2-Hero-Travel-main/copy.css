@@ -1,0 +1,89 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 50px;
+}
+.hero{
+    font-weight: 800px;
+    font-size: 35px;
+    color: #131318;
+    margin-left: 0px;
+}
+span{
+    color: #ff5400;
+}
+
+ul{
+    display: flex;
+    align-items: baseline;
+}
+ul li {
+    list-style: none;
+    margin-right: 40px;
+}
+li a{
+    text-decoration: none;
+    color: #424247;
+    font-size: 15px;
+}
+.home{
+    font-weight: 700px;
+    font-size: 15px;
+    color: #ff5400;
+}
+
+.headerrofhead{ 
+    padding: 100px 200px 0px 300px;
+    font-weight: 800;
+    font-size: 60px;
+    color: #ffffff;
+}
+.containar{
+    background-image: url('Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-repeat: no-repeat;
+    margin: 7px 130px 100px 130px;
+    
+}
+.headerpara{
+    padding: 0px 240px 40px 230px;
+    color: #ffffff;
+}
+.paseAso{
+    display: flex;
+}
+
+.button1{
+    margin: 15px 15px 15px 20px;
+padding: 15px 80px 15px 15px;
+border: none;
+border-radius: 5px;
+color: #131318;
+}
+.button3{
+    padding: 15px 35px 15px 35px;
+    border: none;
+    border-radius: 5px;
+color: #131318;
+background-color: #ff5400;
+
+
+}
+
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 7px 130px 100px 130px;
+}
+.baba{
+    
+}
+.A{
+    text-align: center;
+}
+.bb{
+    margin: 135px;
+    
+}
